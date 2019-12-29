@@ -20,7 +20,7 @@ Widgets:
 - Brightness slider
 - Weather: used system location (for correct work install [JSON Helper](https://itunes.apple.com/ru/app/json-helper-for-applescript/id453114608?l=en&mt=12) and [Location Helper](https://itunes.apple.com/ru/app/location-helper-for-applescript/id488536386?mt=12)) 
 - Time
-- Coffee break
+- Coffee break (block display with password)
 - Do not disturb mode: static toggle
 
 ## License
