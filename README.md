@@ -5,6 +5,7 @@
 
 ## Installation
 After installing BetterTouchTool, you can import/export configurations from the Manage Presets button.
+
 ![Screenshot](install.jpg?raw=true)
 
 ## Preset
