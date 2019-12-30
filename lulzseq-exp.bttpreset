@@ -148,7 +148,7 @@
     "showOtherTriggersTab" : true,
     "BSTSnapAreaDefaultPictoDistanceFromLeft" : 0.10000000149011612
   },
-  "BTTPresetUUID" : "4F4AACF9-419A-4EF8-8DFF-8F17D6884E45",
+  "BTTPresetUUID" : "03E060A6-05B8-4AD2-8B2E-28038255306E",
   "BTTPresetContent" : [
     {
       "BTTAppBundleIdentifier" : "BT.G",
