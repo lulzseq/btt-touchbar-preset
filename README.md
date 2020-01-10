@@ -11,15 +11,15 @@ After installing BetterTouchTool, you can import/export configurations from the 
 ## Preset
 Widgets:
 - ESC: static touch bar button
-- Finder: launch app
 - Sublime Text 3: launch app
-- Notes: launch default app Notes
 - Telegram: launch desktop app
-- Terminal: launch default app
+- Spotify: launch default app
 - Volume slider
 - Brightness slider
 - Weather: used system location (for correct work install [Location Helper](https://itunes.apple.com/ru/app/location-helper-for-applescript/id488536386?mt=12))
 - Time
+- Pause/Play
+- Next track
 - Coffee break (block display with password)
 - Do not disturb mode: static toggle
 
